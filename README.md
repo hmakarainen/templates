@@ -1,3 +1,3 @@
-## Here are the template files I use
-
-- Centered content with a sticky footer, HTML/CSS
+### Centered content with a sticky footer
+- a single HTML file, including CSS styling
+- responsive
